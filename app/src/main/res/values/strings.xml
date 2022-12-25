@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Plant.Go</string>
+    <string-array name="etapas">
+        <item>Hidratacion</item>
+        <item>Germinacion</item>
+        <item>Crecimiento</item>
+    </string-array>
+</resources>
